@@ -6,7 +6,7 @@ This project develops a machine learning model to predict the likelihood of loan
 Financial institutions face significant losses due to loan defaults. Identifying high-risk applicants before loan approval is critical to minimizing risk and improving portfolio performance.
 
 ## Dataset
-
+The dataset used in this project is included in the repository under the `data/` folder. It contains training and testing data used for building and evaluating the loan risk prediction model.
 The dataset contains information on loan applicants, including:
 - Demographics (Gender, Dependents, Education)
 - Financial details (Income, Loan Amount)
